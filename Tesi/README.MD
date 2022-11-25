@@ -1,4 +1,4 @@
-#Analisi di metodi di machine learning per la classificazione di immagini di prodotti biodegradabili
+# Analisi di metodi di machine learning per la classificazione di immagini di prodotti biodegradabili
 - Ci sono 2 modi per eseguire il codice:
 1. Usare i file nella cartella **notebook**. Per usarli consiglio di importarli su google colab avendo svolto il progetto interamente su esso
 2. Usare i codici nella cartella **CodicePython**
